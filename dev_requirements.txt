@@ -1,0 +1,7 @@
+ruff
+
+uvicorn[standard]
+
+sqlalchemy
+alembic
+psycopg[binary]
